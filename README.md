@@ -256,6 +256,22 @@ This dataset includes the occurrences of synonymous sets of SVs and LVCs annotat
 
 #### Section 4.2.3 - The productivity of _semi_-X and _mezzo_ X, between quantity and approximation
 
+* [1_lexical_productivity.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/Section4.2.3/1_lexical_productivity.py): Script for calculating lexical productivity measures.
+
+* [2_semantic_prod_optimal_k.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/Section4.2.3/2_semantic_prod_optimal_k.py): Script for calculating optimal _k_ for clustering on UMAP reduction of the word2vec vectors of the fillers.
+
+* [3_fillers_not_found.txt](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/Section4.2.3/3_fillers_not_found.txt): List of fillers not found in the vocabulary of the word2vec model.
+
+* [4_clust_eval_evaluative.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/Section4.2.3/4_clust_eval_evaluative.csv): Results for the evalutation metrics for clustering fillers of evaluative constructions. The best _k_ was found by human judgement, by balancing the best scores for the two indices employed. Columns include:
+  - n_clusters: number of clusters (_k_) evaluated
+  - DBI: Davies-Bouldin Index (the lower, the better)
+  - CHI: Calinski-Harabasz Index (the higher, the better)
+ 
+* [4_clust_eval_quantitative.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/Section4.2.3/4_clust_eval_evaluative.csv): Results for the evalutation metrics for clustering fillers of quantitative constructions. The best _k_ was found by human judgement, by balancing the best scores for the two indices employed. Columns include:
+  - n_clusters: number of clusters (_k_) evaluated
+  - DBI: Davies-Bouldin Index (the lower, the better)
+  - CHI: Calinski-Harabasz Index (the higher, the better)
+
 ### Section 4.3 - Developing polymorphism: the coevolution of evaluative _semi_-X and _mezzo_ X
 
 ### Section 4.5 - A closer look at division of constructional labor: the case of adjectives
