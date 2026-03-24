@@ -231,6 +231,29 @@ This dataset includes the occurrences of synonymous sets of SVs and LVCs annotat
 
 ### Section 4.2 - Delimiting the space of polymorphism
 
+* [1_excluded_from_query.txt](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/1_excluded_from_query.txt): List of words and patterns excluded from the query in CORIS.
+
+* [2_dataset_clean.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/2_dataset_clean.csv): This dataset contains all the occurrences of _semi_-X and _mezzo_ X (false positive excluded) retrieved in CORIS. Columns contain:
+  
+  - CORIS_Year: timeframe when the occurrence was produced. Timeframes are specified in CORIS metadata.
+  - Text_genre: text genre to which the occurrence belongs (extracted from CORIS metadata).
+  - Text_genre_specific: subtype of the text genre, as specified in CORIS.
+  - Type: lemmatized type of the KWIC in the occurrence
+  - Cxn: either semi- or mezzo
+  - Base: lemma of the filler
+  - Pos: part of speech of the filler
+  - Function: Broad semantic annotation. Below, we show the equivalence between labels in the dataset and labels in the thesis:
+  
+      | annotation label                                     | label employed in the thesis        |
+    | ---------------------------------------------------- | ----------------------------------- |
+    | half_of_a_whole                                      | half of a whole                     |
+    | middle_point_position, middle_among_Xs               | median point/value                  |
+    | great_part_of                                        | large amount                        |
+    | evaluative                                           | approximation                       |
+    | idiomatic_lexicalized, not_even_halfX, halfX_&_halfY | idiomatic/opaque/constructionalized |
+
+  - Occurrence: KWIC (enclosed in <>) surrounded by its left and right context
+
 #### Section 4.2.3 - The productivity of _semi_-X and _mezzo_ X, between quantity and approximation
 
 ### Section 4.3 - Developing polymorphism: the coevolution of evaluative _semi_-X and _mezzo_ X
