@@ -137,6 +137,63 @@ This dataset contains all pairs of schemas belonging to the same event type with
 
 ### Section 3.4 - Differential exponence: the case of causative patterns
 
+* [1_nouns.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/1_nouns.csv):
+  This dataset is a copy of [**1_pivot_longer_preds.csv**](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.3/Section3.3.2/1_pivot_longer_preds.csv) from Section 3.3.2.
+
+* [2_phonological_annotation.R](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/2_phonological_annotation.R):
+  Script for the automatic annotation of [1_nouns.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/1_nouns.csv), based on the data contained in the phonological Italian lexicon [phonItaliaR](https://github.com/stefanocoretta/phonItaliaR).
+
+* [3_data_phonetics.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/3_data_phonetics.csv):
+  This dataset contains the phonological annotation of nouns. Note that each row corresponds to a fully specified predicate, and thus is represented as a noun/schema pairing. Thus, the same noun may appear in multiple rows. Columns contain:
+
+  - noun: lemma of the noun
+ 
+  - cxn: schema
+ 
+  - event_type: event type expressed by the predicate
+ 
+  - PhoneSyll: phonemic transcription
+ 
+  - NumPhones: number of phonemes
+ 
+  - SumSylls: number of syllables
+    
+  - PhonVCV: phonological pattern of the word. V stands for vowel, G for geminate consonant and C for consonant
+
+  - InitialPhoneme: initial phoneme
+  
+  - InitialSyll: initial syllable
+  	
+  - SonorityScale: annotation of the sound class of the first phoneme
+  
+  - SonorityScaleRank: ranking on the sonority scale of the first phoneme, based on its sound class	
+  
+  - SonoritySimple: annotation of the sound macro-class of the first phoneme, obtained by merging sound classes to three macro-groups: vowels, obstruents and sonorants
+
+  - SonoritySimpleRank: ranking on the sonority scale of the first phoneme, based on its macro-class
+ 
+* [4_psychnouns_ratings.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/4_psychnouns_ratings.csv):
+This dataset contains the list of nouns employed in psych-predicates, annotated by basic emotion ratings and VAD (valence, arousal and dominance). The ratings were extracted from the emotional lexicon [ELIta](https://github.com/elianadipalma/ELIta). Columns include:
+
+  - noun: the lemma of the noun
+
+  - 8 columns corresponding to basic emotion ratings (joy: anticipation)
+
+  - 3 columns corresponding to VAD ratings
+
+  - 3 colums including valence, intensity and duration ratings extracted from Zammuner (1998), not included in the analysis.
+
+  - 8 columns corresponding to the presence of basic emotions, expressed as binary value (0/1) (see [ELIta](https://github.com/elianadipalma/ELIta))
+
+* [5_create_df_pca.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/5_create_df_pca.py):
+Script for aligning schemas with the ratings of the nouns employed with them.
+
+* [6_data_pca_caus.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/6_dataset_pca_caus.csv):
+This dataset is the output of [5_create_df_pca.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/5_create_df_pca.py). It contains the same columns as [4_psychnouns_ratings.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/4_psychnouns_ratings.csv), plus 5 additional columns corresponding to the five main causative shemas, specifying whether the noun is employed with that schema or with not (other).
+
+* [7_pca_plutchik.R](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/7_pca_plutchik.R):
+  Script for performing pca on the nouns, based on basic emotion ratings, and to generate pca plots with average vectors for each schema.
+
 ### Section 3.5 - Overabundance: the division of labour between analytic and synthetic predicates
 
 * [1_alternations_dataset](https://github.com/fla-pi/HorizontalLinks/tree/main/Chapter3/Section3.5/1_alternations_dataset.csv):
