@@ -42,7 +42,7 @@ This repository contains the datasets and the scripts employed in the case studi
     - 10 columns, one for each LVC pattern
 
 * [**3_full_dataset.csv**](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.2/3_full_dataset.csv):
-  This dataset contains all the predicates found for each noun. It is referenced in Section 4.1. Given its format, it is not intended to be used for statistical     analysis (see instead dataset 5), but as a visualization tool. Columns include:
+  This dataset contains all the predicates found for each noun. Given its format, it is not intended to be used for statistical analysis, but as a visualization tool. Columns include:
 
   - noun: the lemma of the noun
 
