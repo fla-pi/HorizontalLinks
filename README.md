@@ -1,9 +1,21 @@
 # Horizontal Links: Appendix
 This repository contains the datasets and the scripts employed in the case studies of the PhD thesis "_Horizontal Links. A view of paradigmatic relations from the Italian lexicon-grammar continuum_". The content of each file is described below, divided by chapter and section, as presented in the thesis.
 
-## Chapter 3: Paradigms, in and beyond word-formation: the case of analytic and synthetic psych-predicates
+* [Chapter 3 - Paradigms, in and beyond word-formation: the case of analytic and synthetic psych-predicates]()
+  - [Section 3.2 - Data collection]()
+  - [Section 3.3 - Looking for relational patterns in the paradigm of psych-predicates]()
+    - [Section 3.3.1 - Cross-table analysis: LVCs and SVs across event types]()
+    - [Section 3.3.2 - Network analysis: the relational behaviour of LVCs and SVs]()
+  - [Section 3.4 - Differential exponence: the case of causative patterns]()
+  - [Section 3.5 - Overabundance: the division of labour between analytic and synthetic predicates]()
+* [Chapter 4: How horizontally linked constructions interact: evaluative constructions of ‘half-quantity’]()
+  - [Section 4.2]()
+  - [Section 4.3]()
+  - [Section 4.5]()
+ 
+## Chapter 3 - Paradigms, in and beyond word-formation: the case of analytic and synthetic psych-predicates
 
-### Section 3.2
+### Section 3.2 - Data collection
 
 * [**1_list_psych_nouns.csv**](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.2/1_list_psych_nouns.csv):
   This dataset contains the list of 217 nouns selected from ItEM (Italian EMotive lexicon) (Passaro et al. 2015) and later integrated with data from the appendix     in Zmmuner (1998). The dataset is referenced in Section 4.1. Columns include: 
@@ -40,15 +52,15 @@ This repository contains the datasets and the scripts employed in the case studi
 
     > TypeOfCxn(sv/lvc)_EventType(stative/causative/inchoative)_Name(process/pattern)
 
-### Section 3.3
+### Section 3.3 - Looking for relational patterns in the paradigm of psych-predicates
 
-#### Section 3.3.1
+#### Section 3.3.1 - Cross-table analysis: LVCs and SVs across event types
 
-#### Section 3.3.2
+#### Section 3.3.2 - Network analysis: the relational behaviour of LVCs and SVs
 
-### Section 3.4
+### Section 3.4 - Differential exponence: the case of causative patterns
 
-### Section 3.5
+### Section 3.5 - Overabundance: the division of labour between analytic and synthetic predicates
 
 ## Chapter 4: How horizontally linked constructions interact: evaluative constructions of ‘half-quantity’
 
