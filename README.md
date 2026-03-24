@@ -3,7 +3,7 @@ This repository contains the datasets and the scripts employed in the case studi
 
 ## Chapter 3: Paradigms, in and beyond word-formation: the case of analytic and synthetic psych-predicates
 
-### Chapter 3.2
+### Section 3.2
 
 * [**1_list_psych_nouns.csv**](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.2/1_list_psych_nouns.csv):
   This dataset contains the list of 217 nouns selected from ItEM (Italian EMotive lexicon) (Passaro et al. 2015) and later integrated with data from the appendix     in Zmmuner (1998). The dataset is referenced in Section 4.1. Columns include: 
@@ -40,11 +40,15 @@ This repository contains the datasets and the scripts employed in the case studi
 
     > TypeOfCxn(sv/lvc)_EventType(stative/causative/inchoative)_Name(process/pattern)
 
-### Chapter 3.3
+### Section 3.3
 
-### Chapter 3.4
+#### Section 3.3.1
 
-### Chapter 3.5
+#### Section 3.3.2
+
+### Section 3.4
+
+### Section 3.5
 
 ## Chapter 4: How horizontally linked constructions interact: evaluative constructions of ‘half-quantity’
 
