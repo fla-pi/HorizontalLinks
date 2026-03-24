@@ -9,9 +9,10 @@ This repository contains the datasets and the scripts employed in the case studi
   - [Section 3.4 - Differential exponence: the case of causative patterns](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#section-34---differential-exponence-the-case-of-causative-patterns)
   - [Section 3.5 - Overabundance: the division of labour between analytic and synthetic predicates](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#section-35---overabundance-the-division-of-labour-between-analytic-and-synthetic-predicates)
 * [Chapter 4: How horizontally linked constructions interact: evaluative constructions of ‘half-quantity’]()
-  - [Section 4.2]()
-  - [Section 4.3]()
-  - [Section 4.5]()
+  - [Section 4.2 - Delimiting the space of polymorphism]
+  - [Section 4.2.3 - The productivity of _semi_-X and _mezzo_ X, between quantity and approximation]
+  - [Section 4.3 - Developing polymorphism: the coevolution of evaluative _semi_-X and _mezzo_ X]
+  - [Section 4.5 - A closer look at division of constructional labor: the case of adjectives]
  
 ## Chapter 3 - Paradigms, in and beyond word-formation: the case of analytic and synthetic psych-predicates
 
@@ -226,10 +227,12 @@ This dataset includes the occurrences of synonymous sets of SVs and LVCs annotat
 
   - Text_genre: text genre or communicative situation where the occurrence was produced. Text genres were extracted from the metedata of the corpora and grouped together in 7 categories: Dialogic_speech = face-to-face (KIParla and LIP) and telephone conversations; Monologic_speech = university lessons (KIParla), public speeches (LIP); Broadcast = radio and TV speech (LIP and RadioCast-it); Fiction_prose = Friction prose in CORIS; Press = Newspapers and Magazines in CORIS; NonFiction_prose = Academic and Legal prose in CORIS; Websites = Ephemera in CORIS.
 
-## Chapter 4: How horizontally linked constructions interact: evaluative constructions of ‘half-quantity’
+## Chapter 4 - How horizontally linked constructions interact: evaluative constructions of ‘half-quantity’
 
-### Section 4.2
+### Section 4.2 - Delimiting the space of polymorphism
 
-### Section 4.3
+#### Section 4.2.3 - The productivity of _semi_-X and _mezzo_ X, between quantity and approximation
 
-### Section 4.5
+### Section 4.3 - Developing polymorphism: the coevolution of evaluative _semi_-X and _mezzo_ X
+
+### Section 4.5 - A closer look at division of constructional labor: the case of adjectives
