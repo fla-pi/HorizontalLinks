@@ -1,5 +1,5 @@
 # Horizontal Links: Appendix
-This repository contains the datasets and the scripts employed in the case studies of the PhD thesis "Horizontal Links. A view of paradigmatic relations from the Italian lexicon-grammar continuum". The content of each file is described below, divided by chapter and section, as presented in the thesis.
+This repository contains the datasets and the scripts employed in the case studies of the PhD thesis "_Horizontal Links. A view of paradigmatic relations from the Italian lexicon-grammar continuum_". The content of each file is described below, divided by chapter and section, as presented in the thesis.
 
 ## Chapter 3: Paradigms, in and beyond word-formation: the case of analytic and synthetic psych-predicates
 
