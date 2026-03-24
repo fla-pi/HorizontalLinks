@@ -1,0 +1,87 @@
+﻿noun;freq_noun;SV_stative_conversion;SV_stative_conversion+si;SV_stative_parasyntesis + si;SV_stative_suffixation;LVC_stative_essere_in;LVC_stative_avere;LVC_stative_provare;LVC_stative_sentire;SV_inchoative_conversion+si;SV_inchoative_parasynthesis+si;LVC_inchoative_prendere;LVC_inchoative_andare_in;LVC_inchoative_farsi;SV_causative_conversion;SV_causative_parasynthesis1;SV_causative_parasynthesis2;SV_causative_suffixation;LVC_causative_fare;LVC_causative_dare;LVC_causative_mettere
+interesse;260748;;interessarsi;;; ;avere interesse;provare interesse; ;interessarsi;;prendere interesse;;;interessare;;;;;; 
+amore;186567;;;;;;avere amore;provare amore;sentire amore;;innamorarsi;;;;;;;;;;
+dubbio;93128;;;;;essere in dubbio;; ;;;; ;;;;;;; ;;
+paura;89449;;;;; ;avere paura;provare paura;sentire paura;;impaurirsi;prendere paura;;;;impaurire;spaurire;;fare paura;dare paura;mettere paura
+pena;71264;penare;;;;essere in pena;avere pena;provare pena;sentire pena;;;prendersi pena;;;;;;;fare pena;dare pena;
+dolore;62615;;;;; ;avere dolore;provare dolore;sentire dolore;;addolorarsi; ;;;;addolorare;;;fare dolore;dare dolore; 
+desiderio;60228;;;;; ;avere desiderio;provare desiderio;sentire desiderio;;; ;;;;;;;;; 
+passione;57830;;;;; ;avere passione;provare passione;sentire passione;;appassionarsi; ;;;;appassionare;;; ; ;
+fiducia;49372;;;;; ;avere fiducia;provare fiducia; ;;;prendere fiducia;;;;;;;;dare fiducia;mettere fiducia
+emozione;42927;;;;; ;avere emozione;provare emozione;sentire emozione;emozionarsi;; ;;;emozionare;;;; ;dare emozione;
+gioia;38299;gioire ;;;; ;avere gioia;provare gioia;sentire gioia;;; ;;;;;;;;dare gioia;mettere gioia
+coraggio;36178;;;;; ;avere coraggio; ; ;;;prendere coraggio;;farsi coraggio;;incoraggiare;;;fare coraggio;dare coraggio;mettere coraggio
+disagio;35960;;;;; ;avere disagio;provare disagio;sentire disagio;;; ;;;;;;; ;dare disagio; 
+affetto;32689;;;;; ;avere affetto;provare affetto;sentire affetto;;; ;;;;;;; ;; 
+impressione;28761;;;;; ;avere impressione; ; ;impressionarsi;; ;;;impressionare;;;;fare impressione;dare impressione;
+timore;23920;;;;; ;avere timore;provare timore;sentire timore;;intimorirsi; ;;;;intimorire;;;fare timore;dare timore; 
+odio;21089;odiare;;;;;avere odio;provare odio;sentire odio;;; ;;;;;;;; ; 
+entusiasmo;20138;;;;; ;avere entusiasmo; ; ;entusiasmarsi;; ;;;entusiasmare;;;; ;dare entusiasmo;mettere entusiasmo
+rabbia;17841;;;;; ;avere rabbia;provare rabbia;sentire rabbia;;arrabbiarsi; ;;;;;;;fare rabbia; ;mettere rabbia
+ansia;17189;;;;;essere in ansia;avere ansia;provare ansia; ;;; ;andare in ansia;;;;;; ;dare ansia;mettere ansia
+terrore;15715;;;;; ;avere terrore;provare terrore; ;;; ;;;;;;terrorizzare;fare terrore; ;mettere terrore
+orgoglio;14651;;;;; ;avere orgoglio;provare orgoglio; ;;inorgoglirsi; ;;;;inorgoglire;;; ;dare orgoglio; 
+orrore;14249;;;;; ;avere orrore;provare orrore;sentire orrore;;; ;;;;;;;fare orrore; ;mettere orrore
+calma;13528;;;;; ;avere calma; ; ;calmarsi;;;;;calmare;;;; ;dare calma; 
+pietà ;13030;;;;; ;avere pietà;provare pietà;sentire pietà ;;; ;;;;;;;fare pietà; ; 
+meraviglia;12878;;;;; ; ;provare meraviglia; ;meravigliarsi;; ;;;meravigliare;;;;fare meraviglia; ; 
+vergogna;11782;;vergognarsi;;; ;avere vergogna;provare vergogna;sentire vergogna;vergognarsi;; ;;;;;;;fare vergogna;dare vergogna;
+fastidio;11490;;;;; ;avere fastidio;provare fastidio;sentire fastidio;;infastidirsi; ;;;;infastidire;;;fare fastidio;dare fastidio; 
+simpatia;11162;;;;simpatizzare; ;avere simpatia;provare simpatia;sentire simpatia;;; ;;;;;;;fare simpatia; ; 
+agio;11126;;;;; ;avere agio; ; ;;; ;;;agiare;;;;;; 
+angoscia;10852;;angosciarsi;;;essere in angoscia; ;provare angoscia; ;;; ;;;angosciare;;;; ;dare angoscia;mettere angoscia
+indifferenza;9305;;;;; ; ;provare indifferenza; ;;; ;;;;;;; ; ; 
+schifo;8953;schifare;;;; ;avere schifo;provare schifo; ;;; ;;;schifare;;;;fare schifo; ; 
+nostalgia;8892;;;;; ;avere nostalgia;provare nostalgia;sentire nostalgia;;; ;;;;;;;fare nostalgia; ;mettere nostalgia
+ira;8749;;;;;; ; ; ;;adirarsi; ;;;;adirare;;;; ; 
+stupore;8234;;;;; ; ;provare stupore; ;;; ;;;;;;;fare stupore; ; 
+panico;7910;;;;;essere in panico;avere panico;provare panico; ;;impanicarsi; ;andare in panico;;;;;; ; ; 
+noia;7867;;;annoiarsi;; ;;provare noia; ;;; ;;;;annoiare;;;;dare noia; 
+furia;7387;;;;; ;avere furia; ; ;;infuriarsi; ;andare in furia;;;;;; ; ; 
+invidia;7000;invidiare;;;; ;avere invidia;provare invidia; ;;; ;;;;;;;fare invidia; ; 
+diffidenza;6144;;;;; ;avere diffidenza;provare diffidenza; ;;; ;;;;;;; ; ; 
+malinconia;5395;;;;; ; ;provare malinconia; ;;immalinconirsi; ;;;;immalinconire;;;fare malinconia;dare malinconia;mettere malinconia
+inquietudine;5239;;;;; ; ;provare inquietudine; ;;; ;;;;;;; ;dare inquietudine;mettere inquietudine
+malessere;5031;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+shock;4957;;;;; ; ; ; ;;; ;;;scioccare;;;; ; ; 
+tormento;4352;;tormentarsi;;; ; ; ; ;;; ;;;tormentare;;;; ;dare tormento; 
+nausea;3892;;;;; ;avere nausea;provare nausea;sentire nausea;nausearsi;; ;;;nauseare;;;;fare nausea;dare nausea; 
+rancore;3828;;;;; ;avere rancore;provare rancore; ;;; ;;;;;;; ; ; 
+disinteresse;3244;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+cordoglio;3167;;;;; ; ; ;sentire cordoglio;;; ;;;;;;;; ; 
+estasi;2897;;;;;essere in estasi; ; ; ;;; ;andare in estasi;;;;;; ; ; 
+eccitazione;2753;;;;; ; ;provare eccitazione; ;;; ;;;;;;; ; ; 
+collera;2628;;;;;essere in collera; ; ; ;;incollerirsi; ;andare in collera;;;incollerire;;; ; ; 
+avversione;2581;;;;; ;avere avversione;provare avversione;sentire avversione;;; ;;;;;;; ; ; 
+rimorso;2401;;;;; ;avere rimorso;provare rimorso;sentire rimorso;;; ;;;;;;; ; ; 
+paranoia;2269;;;;;essere in paranoia;avere paranoia; ; ;;imparanoiarsi; ;andare in paranoia;;;imparanoiare;;;; ; 
+apprensione;2226;;;;;essere in apprensione; ; ; ;;; ;;;;;;; ; ; 
+euforia;2170;;;;; ; ; ; ;;; ;;;;;;euforizzare; ;dare euforia; 
+malcontento;2076;;;;; ;; ; ;;; ;;;;;;; ; ; 
+soggezione;1987;;;;;essere in soggezione;avere soggezione; ; ;;; ;;;;;;; ;dare soggezione;mettere soggezione
+disappunto;1967;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+frenesia;1892;;;;;essere in frenesia; ; ; ;;infrenesirsi; ;andare in frenesia;;;;;; ; ; 
+empatia;1792;;;;empatizzare; ;avere empatia;provare empatia; ;;; ;;;;;;; ; ; 
+impazienza;1737;;;;; ; ; ; ;;impazientirsi; ;;;impazientire;;;; ; ; 
+disgusto;1722;;;;; ;avere disgusto;provare disgusto; ;disgustarsi;; ;;;disgustare;;;; ; ; 
+malumore;1650;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+antipatia;1514;;;;antipatizzare; ;avere antipatia;provare antipatia; ;;; ;;;;;;;fare antipatia; ; 
+letizia;1447;letiziare;;;antipatizzare; ;avere letizia; ; ;;; ;;;;;;; ;dare letizia; 
+astio;1446;;;;; ; ;provare astio; ;;; ;;;;;;; ; ; 
+foga;1379;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+apatia;1263;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+strazio;1096;;straziarsi;;; ; ; ; ;;; ;;;straziare;;;;; ; 
+ansietà ;801;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+disaffezione;791;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+giubilo;728;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+gaudio;717;;;;; ; ; ; ;;; ;;;;;;; ;dare gaudio; 
+livore;584;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+magone;550;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+stizza;535;;;;; ; ; ; ;stizzirsi;; ;;;stizzire;;;; ; ; 
+melanconia;449;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+ribrezzo;404;;;;; ; ;provare ribrezzo; ;;; ;;;;;;;fare ribrezzo; ; 
+sollazzo;289;;sollazzarsi;;; ; ; ; ;;; ;;;sollazzare;;;; ; ; 
+acredine;247;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+disamore;214;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+acrimonia;132;;;;; ; ; ; ;;; ;;;;;;; ; ; 
+fifa;3;;;;; ; ; ; ;;; ;;;;;;; ; ; 
