@@ -271,6 +271,10 @@ This dataset includes the occurrences of synonymous sets of SVs and LVCs annotat
   - n_clusters: number of clusters (_k_) evaluated
   - DBI: Davies-Bouldin Index (the lower, the better)
   - CHI: Calinski-Harabasz Index (the higher, the better)
+ 
+* [5_semantic_prod_evaluative.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/Section4.2.3/5_semantic_prod_evaluative.py): Script for clustering fillers of evaluative constructions (_k_ = 12).
+
+* [5_semantic_prod_quantitative.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/Section4.2.3/5_semantic_prod_evaluative.py): Script for clustering fillers of quantitative constructions (_k_ = 6).
 
 ### Section 4.3 - Developing polymorphism: the coevolution of evaluative _semi_-X and _mezzo_ X
 
