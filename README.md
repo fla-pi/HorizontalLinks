@@ -1,13 +1,13 @@
 # Horizontal Links: Appendix
 This repository contains the datasets and the scripts employed in the case studies of the PhD thesis "_Horizontal Links. A view of paradigmatic relations from the Italian lexicon-grammar continuum_". The content of each file is described below, divided by chapter and section, as presented in the thesis.
 
-* [Chapter 3 - Paradigms, in and beyond word-formation: the case of analytic and synthetic psych-predicates]()
-  - [Section 3.2 - Data collection]()
-  - [Section 3.3 - Looking for relational patterns in the paradigm of psych-predicates]()
-    - [Section 3.3.1 - Cross-table analysis: LVCs and SVs across event types]()
-    - [Section 3.3.2 - Network analysis: the relational behaviour of LVCs and SVs]()
-  - [Section 3.4 - Differential exponence: the case of causative patterns]()
-  - [Section 3.5 - Overabundance: the division of labour between analytic and synthetic predicates]()
+* [Chapter 3 - Paradigms, in and beyond word-formation: the case of analytic and synthetic psych-predicates](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#chapter-3---paradigms-in-and-beyond-word-formation-the-case-of-analytic-and-synthetic-psych-predicates)
+  - [Section 3.2 - Data collection](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#section-32---data-collection)
+  - [Section 3.3 - Looking for relational patterns in the paradigm of psych-predicates](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#section-33---looking-for-relational-patterns-in-the-paradigm-of-psych-predicates)
+    - [Section 3.3.1 - Cross-table analysis: LVCs and SVs across event types](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#section-331---cross-table-analysis-lvcs-and-svs-across-event-types)
+    - [Section 3.3.2 - Network analysis: the relational behaviour of LVCs and SVs](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#section-332---network-analysis-the-relational-behaviour-of-lvcs-and-svs)
+  - [Section 3.4 - Differential exponence: the case of causative patterns](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#section-34---differential-exponence-the-case-of-causative-patterns)
+  - [Section 3.5 - Overabundance: the division of labour between analytic and synthetic predicates](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#section-35---overabundance-the-division-of-labour-between-analytic-and-synthetic-predicates)
 * [Chapter 4: How horizontally linked constructions interact: evaluative constructions of ‘half-quantity’]()
   - [Section 4.2]()
   - [Section 4.3]()
