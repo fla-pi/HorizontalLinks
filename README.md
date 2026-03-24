@@ -8,11 +8,11 @@ This repository contains the datasets and the scripts employed in the case studi
     - [Section 3.3.2 - Network analysis: the relational behaviour of LVCs and SVs](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#section-332---network-analysis-the-relational-behaviour-of-lvcs-and-svs)
   - [Section 3.4 - Differential exponence: the case of causative patterns](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#section-34---differential-exponence-the-case-of-causative-patterns)
   - [Section 3.5 - Overabundance: the division of labour between analytic and synthetic predicates](https://github.com/fla-pi/HorizontalLinks?tab=readme-ov-file#section-35---overabundance-the-division-of-labour-between-analytic-and-synthetic-predicates)
-* [Chapter 4: How horizontally linked constructions interact: evaluative constructions of ‘half-quantity’]()
-  - [Section 4.2 - Delimiting the space of polymorphism]
-  - [Section 4.2.3 - The productivity of _semi_-X and _mezzo_ X, between quantity and approximation]
-  - [Section 4.3 - Developing polymorphism: the coevolution of evaluative _semi_-X and _mezzo_ X]
-  - [Section 4.5 - A closer look at division of constructional labor: the case of adjectives]
+* [Chapter 4: How horizontally linked constructions interact: evaluative constructions of ‘half-quantity’](https://github.com/fla-pi/HorizontalLinks/tree/main?tab=readme-ov-file#chapter-4---how-horizontally-linked-constructions-interact-evaluative-constructions-of-half-quantity)
+  - [Section 4.2 - Delimiting the space of polymorphism](https://github.com/fla-pi/HorizontalLinks/tree/main?tab=readme-ov-file#section-42---delimiting-the-space-of-polymorphism)
+  - [Section 4.2.3 - The productivity of _semi_-X and _mezzo_ X, between quantity and approximation](https://github.com/fla-pi/HorizontalLinks/tree/main?tab=readme-ov-file#section-423---the-productivity-of-semi-x-and-mezzo-x-between-quantity-and-approximation)
+  - [Section 4.3 - Developing polymorphism: the coevolution of evaluative _semi_-X and _mezzo_ X](https://github.com/fla-pi/HorizontalLinks/tree/main?tab=readme-ov-file#section-43---developing-polymorphism-the-coevolution-of-evaluative-semi-x-and-mezzo-x)
+  - [Section 4.5 - A closer look at division of constructional labor: the case of adjectives](https://github.com/fla-pi/HorizontalLinks/tree/main?tab=readme-ov-file#section-45---a-closer-look-at-division-of-constructional-labor-the-case-of-adjectives)
  
 ## Chapter 3 - Paradigms, in and beyond word-formation: the case of analytic and synthetic psych-predicates
 
