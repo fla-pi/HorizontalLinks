@@ -324,6 +324,17 @@ This dataset includes the occurrences of synonymous sets of SVs and LVCs annotat
   - cent: century in which the occurrence was produced
   - form_base: inflected form of the filler
  
-* [3_createfreqlists.py](): Based on [BERToldo](https://github.com/dhfbk/historical-bert)
+* [3_createfreqlists.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.3/3_createfreqlists.py): Script employed to create frequency lists for the lemmas in lemma_base ([2_semi&mezzo_codit.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.3/2_semi%26mezzo_codit.csv)). In particular, for each lemma, we search all possible forms (extracted from [Morph-it!](https://docs.sslmit.unibo.it/doku.php?id=resources:morph-it)) in the training data of [BERToldo](https://github.com/dhfbk/historical-bert), to determine the frequency of individual forms.
+
+* [4_train_historical_w2v.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.3/4_train_historical_w2v.py): script employed to train four word2vec models on BERToldo training datasets (one for each partition in the training dataset).
+
+* [5_create_vec_list.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.3/5_create_vec_list.py): Script to create vectors for the lemmas in the dataset. Lemma vectors are calculated as the average between the vectors of forms of that lemma (see [3_createfreqlists.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.3/3_createfreqlists.py)), weighted by the frequency of each individual form.
+
+* [6_umap_plots.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.3/6_umap_plots.py): Script for dimensionality reduction of the vectors with UMAP and for creating plots of UMAP-reduced vectors for each century.
+
+* [7_calculate_metrics.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.3/7_calculate_metrics.py) : Script employed to calculate metrics of semantic distance and openness/coherence.
+
 
 ### Section 4.5 - A closer look at division of constructional labor: the case of adjectives
+
+
