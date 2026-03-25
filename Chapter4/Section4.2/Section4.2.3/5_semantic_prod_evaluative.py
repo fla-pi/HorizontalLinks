@@ -1,6 +1,3 @@
-# =========================
-# IMPORT
-# =========================
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -10,9 +7,7 @@ from sklearn.cluster import KMeans
 from umap import UMAP
 from scipy.spatial import ConvexHull
 
-# =========================
-# LOAD
-# =========================
+
 DATA_PATH = r"Section4.2/2_dataset_clean.csv"
 MODEL_PATH = r"itwac_lemma.w2v"
 
