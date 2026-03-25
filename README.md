@@ -337,11 +337,11 @@ This dataset includes the occurrences of synonymous sets of SVs and LVCs annotat
 
 ### Section 4.5 - A closer look at division of constructional labor: the case of adjectives
 
-* [1_dataset_half_adj.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/1_dataset_half_adj.csv): This dataset contains 600 total occurrences of _semi_-Adj and _mezzo_ Adj, randomly sampled from . Columns include:
+* [1_dataset_half_adj.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/1_dataset_half_adj.csv): This dataset contains 600 total occurrences of _semi_-Adj and _mezzo_ Adj, randomly sampled from [2_dataset_clean.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/2_dataset_clean.csv). Columns include:
   - n: unique identifier of the occurrence
   - CORIS_Year; Text_genre; Text_genre_specific; Type; Cxn; Pos; Occurrence: same annotations found in [2_conditional_inference_tree.R](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/2_conditional_inference_tree.R)   
   - Lemma_Base: corresponds to Base in [2_dataset_clean.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/2_dataset_clean.csv)
-  - 7 columns with annotations not included in the analysis in [2_conditional_inference_tree.R](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/2_conditional_inference_tree.R):
+  - 7 columns with annotations not included in the analysis in [2_dataset_clean.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/2_dataset_clean.csv):
     - Orthography: orthographic form of the occurrence (bound, hyphenated, unbound)
     - Syllables: orthographic transcription with syllabic segmentation of the lemma of the filler
     - SyllLength: n. of syllables of the lemma of the filler
