@@ -337,6 +337,20 @@ This dataset includes the occurrences of synonymous sets of SVs and LVCs annotat
 
 ### Section 4.5 - A closer look at division of constructional labor: the case of adjectives
 
-* [1_dataset_half_adj.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/1_dataset_half_adj.csv):
+* [1_dataset_half_adj.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/1_dataset_half_adj.csv): This dataset contains 600 total occurrences of _semi_-Adj and _mezzo_ Adj, randomly sampled from . Columns include:
+  - n: unique identifier of the occurrence
+  - CORIS_Year; Text_genre; Text_genre_specific; Type; Cxn; Pos; Occurrence: same annotations found in [2_conditional_inference_tree.R](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/2_conditional_inference_tree.R)   
+  - Lemma_Base: corresponds to Base in [2_dataset_clean.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.2/2_dataset_clean.csv)
+  - 7 columns with annotations not included in the analysis in [2_conditional_inference_tree.R](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/2_conditional_inference_tree.R):
+    - Orthography: orthographic form of the occurrence (bound, hyphenated, unbound)
+    - Syllables: orthographic transcription with syllabic segmentation of the lemma of the filler
+    - SyllLength: n. of syllables of the lemma of the filler
+    - MorphCat: morphological information on the lemma of the filler (conversion from a participle, simplex and complex word)
+    - Function: syntactic function of the occurrence (attributive/appositive, predicative, secundary predicate)
+    - SemClass: (tentative) manual semantic annotation of the lemma of the filler, loosely based on semantic classes for adjectives in [German WordNet](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/modern-languages/department-of-linguistics/chairs/general-and-computational-linguistics/ressources/lexica/germanet/description/adjectives/)
+    - Approximation_Output2: recoding of Approximation_Output
+  - 2 colums included in the analysis in [2_conditional_inference_tree.R](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/2_conditional_inference_tree.R):
+    - ScalePoint_Base: type of scale point denoted by the lemma of the filler
+    - Approximation_Output: the type of approximating sub-function of the occurrence
 
-* [2_conditional_inference_tree.R](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/2_conditional_inference_tree.R):
+* [2_conditional_inference_tree.R](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/2_conditional_inference_tree.R): Script for fitting the Conditional Inference Trees on type and token counts. The scripts include commented lines with the outputs and the evaluation metrics of the two trees.
