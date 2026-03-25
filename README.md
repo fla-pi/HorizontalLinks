@@ -278,4 +278,52 @@ This dataset includes the occurrences of synonymous sets of SVs and LVCs annotat
 
 ### Section 4.3 - Developing polymorphism: the coevolution of evaluative _semi_-X and _mezzo_ X
 
+* [1_mezzo_full_codit.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.3/1_mezzo_full_codit.csv): This dataset contains the results of the extraction of _mezzo_ X constructions on [CODIT](https://wiki.korpus.cz/doku.php/en:cnk:codit) (including false positives). Columns include:
+  - docnumber: document number in CODIT
+  - period: period (see CODIT's subdivision) in which the occurrence was produced
+  - title: title of the document to which the occurrence belongs
+  - genre: text genre, as found in CODIT metadata
+  - author: author of the text
+  - title2: title of the text to which the occurrence belongs
+  - year: year of publication of the text
+  - variety: variety of Italian 
+  - left: left context
+  - kwic
+  - right: right context
+  - selection: whether the occurrence is considered evaluative (ev), non-evaluative (non_ev) or a false hit (-).
+ 
+* [1_semi_full_codit.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.3/1_semi_full_codit.csv): This dataset contains the results of the extraction of _semi_-X constructions on CODIT (including false positives). Columns include:
+  - docnumber: document number in CODIT
+  - period: period (see CODIT's subdivision) in which the occurrence was produced
+  - title: title of the document to which the occurrence belongs
+  - genre: text genre, as found in CODIT metadata
+  - author: author of the text
+  - title2: title of the text to which the occurrence belongs
+  - year: year of publication of the text
+  - variety: variety of Italian 
+  - left: left context
+  - kwic
+  - right: right context
+  - selection: whether the occurrence is considered evaluative (ev), non-evaluative (non_ev) or a false hit (-).
+ 
+* [2_semi&mezzo_codit.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.3/2_semi%26mezzo_codit.csv): This dataset contains the occurrences of _semi_-X and _mezzo_X annotated as evaluative in CODIT. Columns include:
+  - docnumber: document number in CODIT
+  - period: period (see CODIT's subdivision) in which the occurrence was produced
+  - title: title of the document to which the occurrence belongs
+  - genre: text genre, as found in CODIT metadata
+  - author: author of the text
+  - title2: title of the text to which the occurrence belongs
+  - year: year of publication of the text
+  - variety: variety of Italian 
+  - left: left context
+  - kwic
+  - right: right context
+  - pos_base: part-of-speech of the filler
+  - lemma_base: lemma of the filler
+  - construction: schema employed (_semi_- or _mezzo_)
+  - cent: century in which the occurrence was produced
+  - form_base: inflected form of the filler
+ 
+* [3_createfreqlists.py](): Based on [BERToldo](https://github.com/dhfbk/historical-bert)
+
 ### Section 4.5 - A closer look at division of constructional labor: the case of adjectives
