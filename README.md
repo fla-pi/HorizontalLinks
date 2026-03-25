@@ -193,7 +193,7 @@ Script for aligning schemas with the ratings of the nouns employed with them.
 This dataset is the output of [5_create_df_pca.py](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/5_create_df_pca.py). It contains the same columns as [4_psychnouns_ratings.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/4_psychnouns_ratings.csv), plus 5 additional columns corresponding to the five main causative shemas, specifying whether the noun is employed with that schema or with not (other).
 
 * [7_pca_plutchik.R](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter3/Section3.4/7_pca_plutchik.R):
-  Script for performing pca on the nouns, based on basic emotion ratings, and to generate pca plots with average vectors for each schema.
+  Script for performing PCA on nouns, based on basic emotion ratings, and to generate pca plots with average vectors for each schema.
 
 ### Section 3.5 - Overabundance: the division of labour between analytic and synthetic predicates
 
