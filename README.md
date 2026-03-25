@@ -337,4 +337,6 @@ This dataset includes the occurrences of synonymous sets of SVs and LVCs annotat
 
 ### Section 4.5 - A closer look at division of constructional labor: the case of adjectives
 
+* [1_dataset_half_adj.csv](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/1_dataset_half_adj.csv):
 
+* [2_conditional_inference_tree.R](https://github.com/fla-pi/HorizontalLinks/blob/main/Chapter4/Section4.5/2_conditional_inference_tree.R):
